@@ -1,0 +1,4 @@
+.Mui-focused:focus {
+    border:none;
+    outline: none;
+}
